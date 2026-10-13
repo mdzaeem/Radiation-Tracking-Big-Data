@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/e25d2b61-37f1-4e82-a08c-c1a12119975d
 
 | Name                        | Matriculation Number | User Name |Email                        | Role                     |
 |-----------------------------|----------------------|-----------|------------------|--------------------------|
-| **Mohammed Zaeem**   | 637453               | cdw0910         |[Zaeem.mohammed@tyhh.de](mailto:Zaeem.mohammed@tuhh.de) | Team Coordinator         |
+| **Mohammed Zaeem**   | 637453               | cdw0910         |[zaeem.mohammed@tyhh.de](mailto:Zaeem.mohammed@tuhh.de) | Team Coordinator         |
 | **Syed Mustafa Quadri**      | 638012               | cot7047            |[syed.quadri@tuhh.de](mailto:syed.quadri@tuhh.de)       |                          |
 
 
